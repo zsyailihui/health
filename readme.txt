@@ -7,3 +7,4 @@ Git abc
 Git sb
 GIt bf
 Git vf
+git sg
